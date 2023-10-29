@@ -1,2 +1,2 @@
-# Mavi-tik
-İnstagram
+tikler.json
+["mamiiengin"]
